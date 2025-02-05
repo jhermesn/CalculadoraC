@@ -47,7 +47,7 @@ Contribuições são bem-vindas! Por favor, faça um fork do repositório e subm
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ### Créditos
-- **Criador:** [Jorge Hermes](https://jorgehermes.me/)
+- **Criador:** [Jorge Hermes](https://jhermesn.dev/)
 
 ---
 
@@ -100,6 +100,6 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 This project is licensed under the [MIT License](LICENSE).
 
 ### Credits
-- **Creator:** [Jorge Hermes](https://jorgehermes.me/)
+- **Creator:** [Jorge Hermes](https://jhermesn.dev/)
 
 ---
