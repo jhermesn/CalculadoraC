@@ -405,5 +405,7 @@ int main() {
     double resultado = avaliar(arvore, &passo);
     printf("\nResultado Final: %.5f\n", resultado);
     liberarArvore(arvore);
+    printf("Pressione Enter para continuar...");
+    getchar();
     return 0;
 }
